@@ -1,0 +1,16 @@
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.exe
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.deps.json
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.runtimeconfig.json
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.runtimeconfig.dev.json
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.dll
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\bin\Debug\netcoreapp3.1\SudokuSolver.pdb
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.csproj.AssemblyReference.cache
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.frmMain.resources
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.csproj.GenerateResource.cache
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.AssemblyInfoInputs.cache
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.AssemblyInfo.cs
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.dll
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.pdb
+C:\Users\MyRsi\Desktop\Sudoku Challenge\SudokuSolver\SudokuSolver\obj\Debug\netcoreapp3.1\SudokuSolver.genruntimeconfig.cache
